@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\RotasTransportePublico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{114A23EF-4C78-4551-94CD-B12F3DE09754}|RotasTransportePublico.Tests\\RotasTransportePublico.Tests.csproj|c:\\users\\admin\\source\\repos\\rotastransportepublico\\rotastransportepublico.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114A23EF-4C78-4551-94CD-B12F3DE09754}|RotasTransportePublico.Tests\\RotasTransportePublico.Tests.csproj|solutionrelative:rotastransportepublico.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2485FEA-DBF6-4FC9-BCB8-6D2C6E77704A}|RotasTransportePublico\\RotasTransportePublico.csproj|c:\\users\\admin\\source\\repos\\rotastransportepublico\\rotastransportepublico\\classes\\rota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2485FEA-DBF6-4FC9-BCB8-6D2C6E77704A}|RotasTransportePublico\\RotasTransportePublico.csproj|solutionrelative:rotastransportepublico\\classes\\rota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2485FEA-DBF6-4FC9-BCB8-6D2C6E77704A}|RotasTransportePublico\\RotasTransportePublico.csproj|c:\\users\\admin\\source\\repos\\rotastransportepublico\\rotastransportepublico\\classes\\parada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2485FEA-DBF6-4FC9-BCB8-6D2C6E77704A}|RotasTransportePublico\\RotasTransportePublico.csproj|solutionrelative:rotastransportepublico\\classes\\parada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2485FEA-DBF6-4FC9-BCB8-6D2C6E77704A}|RotasTransportePublico\\RotasTransportePublico.csproj|c:\\users\\admin\\source\\repos\\rotastransportepublico\\rotastransportepublico\\classes\\gerenciadorrotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2485FEA-DBF6-4FC9-BCB8-6D2C6E77704A}|RotasTransportePublico\\RotasTransportePublico.csproj|solutionrelative:rotastransportepublico\\classes\\gerenciadorrotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\RotasTransportePublico\\RotasTransportePublico.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "RotasTransportePublico.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\RotasTransportePublico\\RotasTransportePublico.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "RotasTransportePublico.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAgwNEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:16:57.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GerenciadorRotas.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\RotasTransportePublico\\RotasTransportePublico\\classes\\GerenciadorRotas.cs",
+              "RelativeDocumentMoniker": "RotasTransportePublico\\classes\\GerenciadorRotas.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\RotasTransportePublico\\RotasTransportePublico\\classes\\GerenciadorRotas.cs",
+              "RelativeToolTip": "RotasTransportePublico\\classes\\GerenciadorRotas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:14:45.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Parada.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\RotasTransportePublico\\RotasTransportePublico\\classes\\Parada.cs",
+              "RelativeDocumentMoniker": "RotasTransportePublico\\classes\\Parada.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\RotasTransportePublico\\RotasTransportePublico\\classes\\Parada.cs",
+              "RelativeToolTip": "RotasTransportePublico\\classes\\Parada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:11:21.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rota.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\RotasTransportePublico\\RotasTransportePublico\\classes\\Rota.cs",
+              "RelativeDocumentMoniker": "RotasTransportePublico\\classes\\Rota.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\RotasTransportePublico\\RotasTransportePublico\\classes\\Rota.cs",
+              "RelativeToolTip": "RotasTransportePublico\\classes\\Rota.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwB8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:29:27.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

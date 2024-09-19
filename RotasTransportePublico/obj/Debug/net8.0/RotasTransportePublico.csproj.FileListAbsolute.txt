@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\RotasTransportePublico\RotasTransportePublico\bin\Debug\net8.0\RotasTransportePublico.exe
+C:\Users\Admin\source\repos\RotasTransportePublico\RotasTransportePublico\bin\Debug\net8.0\RotasTransportePublico.deps.json
+C:\Users\Admin\source\repos\RotasTransportePublico\RotasTransportePublico\bin\Debug\net8.0\RotasTransportePublico.runtimeconfig.json
+C:\Users\Admin\source\repos\RotasTransportePublico\RotasTransportePublico\bin\Debug\net8.0\RotasTransportePublico.dll
+C:\Users\Admin\source\repos\RotasTransportePublico\RotasTransportePublico\bin\Debug\net8.0\RotasTransportePublico.pdb
+C:\Users\Admin\source\repos\RotasTransportePublico\RotasTransportePublico\obj\Debug\net8.0\RotasTransportePublico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\RotasTransportePublico\RotasTransportePublico\obj\Debug\net8.0\RotasTransportePublico.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\RotasTransportePublico\RotasTransportePublico\obj\Debug\net8.0\RotasTransportePublico.AssemblyInfo.cs
+C:\Users\Admin\source\repos\RotasTransportePublico\RotasTransportePublico\obj\Debug\net8.0\RotasTransportePublico.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\RotasTransportePublico\RotasTransportePublico\obj\Debug\net8.0\RotasTransportePublico.dll
+C:\Users\Admin\source\repos\RotasTransportePublico\RotasTransportePublico\obj\Debug\net8.0\refint\RotasTransportePublico.dll
+C:\Users\Admin\source\repos\RotasTransportePublico\RotasTransportePublico\obj\Debug\net8.0\RotasTransportePublico.pdb
+C:\Users\Admin\source\repos\RotasTransportePublico\RotasTransportePublico\obj\Debug\net8.0\RotasTransportePublico.genruntimeconfig.cache
+C:\Users\Admin\source\repos\RotasTransportePublico\RotasTransportePublico\obj\Debug\net8.0\ref\RotasTransportePublico.dll
